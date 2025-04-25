@@ -405,16 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-got-accepted-as-a-student-volunteer-sv-at-chi2025-see-you-in-yokohama-sparkles-smile",
+          title: 'I got accepted as a Student Volunteer (SV) at CHI2025, see you in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
