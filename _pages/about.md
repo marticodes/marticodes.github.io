@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: 20210755.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>KAIST, South Korea</p>
     <p>291 Daehak-ro, Yuseong-gu</p>
@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Martina Di Paola, a 4th-year student at KAIST(Korea Advanced Institute of Science and Technology), originally from Italy. I am majoring in Computer Science with a double major in Business Technology and Management. I have been an Undergraduate Researcher at CSTL user the supervision of Professor Joseph Seering. 
+Hello! I’m Martina Di Paola, a 4th-year student at [KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science and Technology), originally from Italy. I am majoring in Computer Science with a double major in Business Technology and Management. I have also been an Undergraduate Researcher at [CSTL](https://cstlab.org) under the supervision of Professor [Joseph Seering](https://joseph.seering.org/index.html).
 
-In my two years as researcher my focus has been on Social Media and Content Moderation. As an avid social media user myself, I aim to improve moderation practices and overall experience on social media, from both the user and designer side. 
+Over the past two years, my research has focused on social media and content moderation. As an avid social media user myself, I am dedicated to enhancing moderation practices and improving the overall user experience on social media, from both user and designer perspectives.
 
-Given this, follow me on social media if you want to keep in touch!
+Feel free to follow me on social media to stay in touch!
